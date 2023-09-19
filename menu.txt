@@ -1,0 +1,4 @@
+# MENU MAKANAN #
+------------------
+1. ayam goreng
+2. mie goreng
